@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<messages>
+  <unnownCommand>Данной команды не существует.</unnownCommand>
+  <nullArguments>В команде не указан обязательный аргумент.</nullArguments>
+  <userNotFound>Данного пользователя не существует в базе бота.
+Можно приглашать только тех польхователей, которые написали мне команду "/start".</userNotFound>
+  <userExists>Мы с вами уже знакомы.</userExists>
+  <selfInvite>Вы пытаетесь пригласить сами себя!</selfInvite>
+  <default>На сервере произошла ошибка(</default>
+</messages>

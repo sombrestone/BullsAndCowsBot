@@ -1,0 +1,50 @@
+{
+  "CurrentPlayer": {
+    "Number": "1235",
+    "Id": 908455886,
+    "UserName": "Tanakap23"
+  },
+  "NextTurnPlayer": {
+    "Number": "8217",
+    "Id": 391391095,
+    "UserName": "mamkinKakashi"
+  },
+  "Turns": [
+    {
+      "Status": 0,
+      "Number": "8217",
+      "Player": {
+        "Number": "8217",
+        "Id": 391391095,
+        "UserName": "mamkinKakashi"
+      },
+      "Bulls": 1,
+      "Cows": 1,
+      "TurnNum": 0
+    },
+    {
+      "Status": 0,
+      "Number": "5678",
+      "Player": {
+        "Number": "1235",
+        "Id": 908455886,
+        "UserName": "Tanakap23"
+      },
+      "Bulls": 0,
+      "Cows": 2,
+      "TurnNum": 1
+    },
+    {
+      "Status": 0,
+      "Number": "8765",
+      "Player": {
+        "Number": "8217",
+        "Id": 391391095,
+        "UserName": "mamkinKakashi"
+      },
+      "Bulls": 1,
+      "Cows": 0,
+      "TurnNum": 1
+    }
+  ]
+}

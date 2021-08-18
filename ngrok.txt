@@ -1,0 +1,2 @@
+ngrok http localhost:49185 -host-header="localhost:49185"
+https://api.telegram.org/bot800222533:AAEj5y5O2gQTB0MctfCtSnEA5ZKQhkUjHXo/setwebhook?url=https://6893dac19b9c.ngrok.io/api/bot
